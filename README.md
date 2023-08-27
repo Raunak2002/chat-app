@@ -1,6 +1,12 @@
+# Preview
+
+<img width="960" alt="Screenshot 2023-08-27 15 47 50" src="https://github.com/Raunak2002/chat-app/assets/73553425/4935fed8-fcd3-46ba-897f-44b04bc17158">
+<img width="960" alt="Screenshot 2023-08-27 15 47 12" src="https://github.com/Raunak2002/chat-app/assets/73553425/07cac9b3-c994-47cf-bf5f-089de6bbfe58">
+<img width="960" alt="Screenshot 2023-08-27 15 47 08" src="https://github.com/Raunak2002/chat-app/assets/73553425/9755996e-f7c7-4990-877c-075b49c5cfa4">
+
 # Real-Time Chat App with React and Firebase
 
-This is a real-time chat application built using React and Firebase. It allows users to chat in real-time, with messages instantly syncing across all connected clients. Firebase is used as the backend storage for storing messages and handling authentication.
+This is a real-time chat application built using React and Firebase. It allows users to chat in real time, with messages instantly syncing across all connected clients. Firebase is used as the backend storage for storing messages and handling authentication.
 
 ## Features
 
