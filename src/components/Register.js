@@ -38,12 +38,14 @@ function Register() {
                     photoURL: downloadURL,
                   });
                 await setDoc(doc(db, "userChats", res.user.uid), {});
+                alert("Register");
                 navigate("/"); 
             });
         }
         );
         }
         catch(err){
+            alert("Something went wrong :" + err);
             setErr(true);
         }
         };   

@@ -70,7 +70,7 @@ function Input() {
           <img src={Attach} alt=''/>
           <input type="file" style={{display: "none"}} id="file" onChange={e=>setImg(e.target.files[0])}/>
           <label htmlFor='file'>
-            <img src={Cam}/>
+            <img src={Cam} alt='Cam'/>
           </label>
           <button onClick={handleSend}>Send</button>
         </div>
